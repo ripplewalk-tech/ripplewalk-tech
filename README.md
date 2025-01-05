@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ripplewalk-tech
 - 👀 I’m interested in everything interesting
-- 🌱 I’m currently learning al the learnings
+- 🌱 I’m currently learning all the learnings
 - 💞️ I’m looking to collaborate on mutual success
 
 <!---
